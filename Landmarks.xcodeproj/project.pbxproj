@@ -15,6 +15,7 @@
 		9392538724D7DCE600ACE22C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9392538524D7DCE600ACE22C /* LaunchScreen.storyboard */; };
 		9392539224D7DCE700ACE22C /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9392539124D7DCE700ACE22C /* LandmarksTests.swift */; };
 		9392539F24D7E16E00ACE22C /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9392539E24D7E16E00ACE22C /* CircleImage.swift */; };
+		939253A324D7EAB400ACE22C /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939253A224D7EAB400ACE22C /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		9392539124D7DCE700ACE22C /* LandmarksTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksTests.swift; sourceTree = "<group>"; };
 		9392539324D7DCE700ACE22C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9392539E24D7E16E00ACE22C /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		939253A224D7EAB400ACE22C /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				9392538524D7DCE600ACE22C /* LaunchScreen.storyboard */,
 				9392538824D7DCE600ACE22C /* Info.plist */,
 				9392538224D7DCE600ACE22C /* Preview Content */,
+				939253A224D7EAB400ACE22C /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 			files = (
 				9392537B24D7DCE500ACE22C /* AppDelegate.swift in Sources */,
 				9392539F24D7E16E00ACE22C /* CircleImage.swift in Sources */,
+				939253A324D7EAB400ACE22C /* MapView.swift in Sources */,
 				9392537D24D7DCE500ACE22C /* SceneDelegate.swift in Sources */,
 				9392537F24D7DCE500ACE22C /* ContentView.swift in Sources */,
 			);
