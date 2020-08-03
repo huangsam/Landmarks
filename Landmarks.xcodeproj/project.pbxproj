@@ -14,6 +14,7 @@
 		9392538424D7DCE600ACE22C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9392538324D7DCE600ACE22C /* Preview Assets.xcassets */; };
 		9392538724D7DCE600ACE22C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9392538524D7DCE600ACE22C /* LaunchScreen.storyboard */; };
 		9392539224D7DCE700ACE22C /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9392539124D7DCE700ACE22C /* LandmarksTests.swift */; };
+		9392539F24D7E16E00ACE22C /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9392539E24D7E16E00ACE22C /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		9392538D24D7DCE700ACE22C /* LandmarksTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandmarksTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9392539124D7DCE700ACE22C /* LandmarksTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksTests.swift; sourceTree = "<group>"; };
 		9392539324D7DCE700ACE22C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9392539E24D7E16E00ACE22C /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				9392537A24D7DCE500ACE22C /* AppDelegate.swift */,
 				9392537C24D7DCE500ACE22C /* SceneDelegate.swift */,
 				9392537E24D7DCE500ACE22C /* ContentView.swift */,
+				9392539E24D7E16E00ACE22C /* CircleImage.swift */,
 				9392538024D7DCE600ACE22C /* Assets.xcassets */,
 				9392538524D7DCE600ACE22C /* LaunchScreen.storyboard */,
 				9392538824D7DCE600ACE22C /* Info.plist */,
@@ -209,6 +212,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9392537B24D7DCE500ACE22C /* AppDelegate.swift in Sources */,
+				9392539F24D7E16E00ACE22C /* CircleImage.swift in Sources */,
 				9392537D24D7DCE500ACE22C /* SceneDelegate.swift in Sources */,
 				9392537F24D7DCE500ACE22C /* ContentView.swift in Sources */,
 			);
