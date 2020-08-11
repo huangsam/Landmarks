@@ -29,6 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9306A12324E2F9290009BFB8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9392537724D7DCE500ACE22C /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9392537A24D7DCE500ACE22C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9392537C24D7DCE500ACE22C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +75,7 @@
 		9392536E24D7DCE500ACE22C = {
 			isa = PBXGroup;
 			children = (
+				9306A12324E2F9290009BFB8 /* README.md */,
 				9392537924D7DCE500ACE22C /* Landmarks */,
 				9392539024D7DCE700ACE22C /* LandmarksTests */,
 				9392537824D7DCE500ACE22C /* Products */,
