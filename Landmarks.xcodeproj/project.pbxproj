@@ -62,6 +62,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9306A12224E2F86B0009BFB8 /* Supporting Views */ = {
+			isa = PBXGroup;
+			children = (
+				9392539E24D7E16E00ACE22C /* CircleImage.swift */,
+				939253A224D7EAB400ACE22C /* MapView.swift */,
+			);
+			path = "Supporting Views";
+			sourceTree = "<group>";
+		};
 		9392536E24D7DCE500ACE22C = {
 			isa = PBXGroup;
 			children = (
@@ -86,12 +95,11 @@
 				9392537A24D7DCE500ACE22C /* AppDelegate.swift */,
 				9392537C24D7DCE500ACE22C /* SceneDelegate.swift */,
 				9392537E24D7DCE500ACE22C /* ContentView.swift */,
-				9392539E24D7E16E00ACE22C /* CircleImage.swift */,
+				9306A12224E2F86B0009BFB8 /* Supporting Views */,
 				9392538024D7DCE600ACE22C /* Assets.xcassets */,
 				9392538524D7DCE600ACE22C /* LaunchScreen.storyboard */,
 				9392538824D7DCE600ACE22C /* Info.plist */,
 				9392538224D7DCE600ACE22C /* Preview Content */,
-				939253A224D7EAB400ACE22C /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
