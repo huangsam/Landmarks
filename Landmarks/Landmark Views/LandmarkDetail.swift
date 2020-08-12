@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  LandmarkDetail.swift
 //  Landmarks
 //
 //  Created by Sam Huang on 8/2/20.
@@ -39,7 +39,7 @@ struct LandmarkDetail: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct LandmarkDetail_Previews: PreviewProvider {
     static var previews: some View {
         LandmarkDetail(landmark: landmarkData[0])
     }
