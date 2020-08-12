@@ -32,6 +32,7 @@
 		9392539F24D7E16E00ACE22C /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9392539E24D7E16E00ACE22C /* CircleImage.swift */; };
 		939253A324D7EAB400ACE22C /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939253A224D7EAB400ACE22C /* MapView.swift */; };
 		93DDEB5E24E42C4600A8E6DA /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93DDEB5D24E42C4600A8E6DA /* LandmarkRow.swift */; };
+		93DDEB6024E42EBA00A8E6DA /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93DDEB5F24E42EBA00A8E6DA /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +76,7 @@
 		9392539E24D7E16E00ACE22C /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		939253A224D7EAB400ACE22C /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		93DDEB5D24E42C4600A8E6DA /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
+		93DDEB5F24E42EBA00A8E6DA /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -191,6 +193,7 @@
 			children = (
 				9392537E24D7DCE500ACE22C /* LandmarkDetail.swift */,
 				93DDEB5D24E42C4600A8E6DA /* LandmarkRow.swift */,
+				93DDEB5F24E42EBA00A8E6DA /* LandmarkList.swift */,
 			);
 			path = "Landmark Views";
 			sourceTree = "<group>";
@@ -313,6 +316,7 @@
 				9392537B24D7DCE500ACE22C /* AppDelegate.swift in Sources */,
 				9306A12C24E2FAAE0009BFB8 /* Data.swift in Sources */,
 				9392539F24D7E16E00ACE22C /* CircleImage.swift in Sources */,
+				93DDEB6024E42EBA00A8E6DA /* LandmarkList.swift in Sources */,
 				939253A324D7EAB400ACE22C /* MapView.swift in Sources */,
 				9392537D24D7DCE500ACE22C /* SceneDelegate.swift in Sources */,
 				93DDEB5E24E42C4600A8E6DA /* LandmarkRow.swift in Sources */,
