@@ -1,5 +1,8 @@
 # Landmarks
 
-Personal artifacts from following [the first SwiftUI tutorial](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views) on Apple's Developer portal.
+Personal artifacts from following the following tutorials on Apple's Developer portal:
 
-The next step is going through [the second SwiftUI tutorial](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation).
+- [Creating and Combining Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+- [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
+
+The next tutorial to follow is [Handling User Input](https://developer.apple.com/tutorials/swiftui/handling-user-input).
